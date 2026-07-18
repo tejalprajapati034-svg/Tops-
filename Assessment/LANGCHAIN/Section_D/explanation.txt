@@ -1,0 +1,4 @@
+I updated the ConversationBufferMemory by adding memory_key and input_key so that
+conversation history works correctly in newer LangChain versions. 
+I also improved the prompt for better responses and added a polite message when an order ID is not found. 
+These changes make the assistant more reliable and user-friendly.
